@@ -14,7 +14,7 @@ I am currently in my third semester of the **Systems Analysis and Development Te
 - **Learning Approach:** Self-taught through hands-on projects and practice
 
 ## Projects
-4254Feel free to check out more of my work on my [GitHub profile](https://github.com/eudesjuniorr).
+Feel free to check out more of my work on my [GitHub profile](https://github.com/eudesjuniorr).
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eudesjuniorr&show_icons=true&theme=default)
